@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Allows us to connect server using the private key with user ubuntu
-ssh -i ~/.ssh/school  ubuntu@6ef6c96016f5.dd78c794.alx-cod.online
+# Allows us to connect to my server using the private key with user ubuntu
+ssh -i ~/.ssh/id_rsa ubuntu@54.160.113.96
