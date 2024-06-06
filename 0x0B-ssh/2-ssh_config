@@ -2,3 +2,5 @@
 Host 34.229.137.76
     IdentityFile ~/.ssh/id_rsa
     IdentityFile ~/.ssh/ayoub
+    PubkeyAuthentication yes
+    AuthorizedKeysFile .ssh/authorized_keys
